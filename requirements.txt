@@ -1,0 +1,6 @@
+fastapi
+pydantic
+bcrypt
+sqlalchemy
+pyodbc
+uvicorn
